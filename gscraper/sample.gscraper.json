@@ -1,0 +1,7 @@
+{
+  "output_dir": "gscraper_data",
+  "max_pages": 1000,
+  "wait_time": 5,
+  "doc_extensions": "pdf,doc,docx,xls,xlsx,csv",
+  "max_concurrent": 5
+}
