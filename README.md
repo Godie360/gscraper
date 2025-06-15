@@ -1,4 +1,7 @@
-![G-scraper Logo](ChatGPT Image Jun 14, 2025, 02_02_52 PM.png)
+<p align="center">
+  <img src="./ChatGPT%20Image%20Jun%2014,%202025,%2002_02_52%20PM.png" alt="G-scraper Logo" width="200"/>
+</p>
+
 
 # G-scraper
 
