@@ -1,4 +1,4 @@
-![G-scraper Logo](path/to/logo.png)
+![G-scraper Logo](ChatGPT Image Jun 14, 2025, 02_02_52 PM.png)
 
 # G-scraper
 
