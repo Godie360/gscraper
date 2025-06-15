@@ -1,3 +1,5 @@
+![G-scraper Logo](path/to/logo.png)
+
 # G-scraper
 
 G-scraper is a Python tool for scraping text and documents (e.g., PDFs, DOCX, XLSX) from websites. It supports resuming interrupted sessions, parallel scraping for efficiency, and customizable settings via a configuration file or command-line arguments.
